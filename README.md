@@ -1,13 +1,13 @@
-# Adding PMCID to LaTeX/BibTeX bibliography
+# Adding PMCID to LaTeX/BibTeX/Biber bibliography
 
 
-This repository contains code and working example for adding PMCID to bibliographic references compiled by LaTeX/BibTeX
+This repository contains code and working example for adding PMCID to bibliographic references compiled by LaTeX/BibTeX/Biber
 
 
 ## Scripts and usage
 - The script **get_doi.pl** extracts digital object identifiers (DOIs) from the bbl file. Run it as: perl get_doi.pl Your_bbl_file.bbl. It will output the DOIs in a file named DOIs_Your_bbl_file.bbl
 - Take the DOIs from DOIs_Your_bbl_file.bbl and input them into [https://www.ncbi.nlm.nih.gov/pmc/pmctopmid/](https://www.ncbi.nlm.nih.gov/pmc/pmctopmid/) to extract in batch all corresponding PMCIDs. Save the output as csv file in ids.csv, which is an option of the website.
-- The script **add_PMCID.pl** adds PMCIDs to the bbl file. Run it as: perl add_PMCID.pl  ids.csv Your_bbl_file.bbl
+- The script **add_PMCID.pl** adds PMCIDs to the bbl file. Run it as: perl add_PMCID.pl  ids.csv Your_bbl_file.bbl. This will output \_Your_bbl_file.bbl file that should contain the PMCID added at the end of each reference that had a DOI with a corresponding PMCID.
 
 ## Working example
 - perl get_doi.pl Slavov_Research_Stategy.bbl
