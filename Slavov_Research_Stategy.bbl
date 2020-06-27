@@ -1,0 +1,252 @@
+\begin{thebibliography}{37}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Farbehi et~al.(2019)Farbehi, Patrick, Dorison, Xaymardan, Janbandhu
+  et~al.}]{farbehi2019single}
+Farbehi N, Patrick R, Dorison A, Xaymardan M, Janbandhu V, et~al. (2019)
+  Single-cell expression profiling reveals dynamic flux of cardiac stromal,
+  vascular and immune cells in health and injury.
+\newblock Elife 8: e43882.
+\newblock \doi{10.7554/eLife.43882}.
+
+\bibitem[{Murray(2017)}]{murray2017macrophage}
+Murray PJ (2017) Macrophage polarization.
+\newblock Annual review of physiology 79: 541--566.
+\newblock \doi{10.1146/annurev-physiol-022516-034339}.
+
+\bibitem[{Specht et~al.(2019)Specht, Emmott, Petelski, Gray~Huffman, Perlman
+  et~al.}]{scope2}
+Specht H, Emmott E, Petelski AA, Gray~Huffman R, Perlman DH, et~al. (2019)
+  Single-cell mass-spectrometry quantifies the emergence of macrophage
+  heterogeneity.
+\newblock bioRxiv \doi{10.1101/665307}.
+
+\bibitem[{Slavov(2020{\natexlab{a}})}]{Slavov2020Science}
+Slavov N (2020{\natexlab{a}}) Unpicking the proteome in single cells.
+\newblock Science 367: 512--513.
+\newblock \doi{10.1126/science.aaz6695}.
+
+\bibitem[{Giladi and Amit(2018)}]{giladi2018single}
+Giladi A, Amit I (2018) Single-cell genomics: a stepping stone for future
+  immunology discoveries.
+\newblock Cell 172: 14--21.
+\newblock \doi{10.1016/j.cell.2017.11.011}.
+
+\bibitem[{Chen et~al.(2019{\natexlab{a}})Chen, Franks, and
+  Slavov}]{Franks2016PTR}
+Chen AT, Franks A, Slavov N (2019{\natexlab{a}}) {DART-ID} increases
+  single-cell proteome coverage.
+\newblock PLOS Computational Biology 15: 1--30.
+\newblock \doi{10.1371/journal.pcbi.1007082}.
+
+\bibitem[{Fitzgerald and Kagan(2020)}]{fitzgerald2020toll}
+Fitzgerald KA, Kagan JC (2020) Toll-like receptors and the control of immunity.
+\newblock Cell \doi{10.1016/j.cell.2020.02.041}.
+
+\bibitem[{Jha et~al.(2015)Jha, Huang, Sergushichev, Lampropoulou, Ivanova
+  et~al.}]{Max2015network}
+Jha AK, Huang SCC, Sergushichev A, Lampropoulou V, Ivanova Y, et~al. (2015)
+  Network integration of parallel metabolic and transcriptional data reveals
+  metabolic modules that regulate macrophage polarization.
+\newblock Immunity 42: 419--430.
+\newblock \doi{10.1016/j.immuni.2015.02.005}.
+
+\bibitem[{Langston et~al.(2017)Langston, Shibata, and
+  Horng}]{Horng2017metabolism_activation}
+Langston PK, Shibata M, Horng T (2017) Metabolism supports macrophage
+  activation.
+\newblock Frontiers in immunology 8: 61.
+\newblock \doi{10.3389/fimmu.2017.00061}.
+
+\bibitem[{Jung et~al.(2019)Jung, Zeng, and Horng}]{Horng2019metabolism}
+Jung J, Zeng H, Horng T (2019) Metabolism as a guiding force for immunity.
+\newblock Nature cell biology 21: 85--93.
+\newblock \doi{10.1038/s41556-018-0217-x}.
+
+\bibitem[{Van~den Bossche et~al.(2016)Van~den Bossche, Baardman, Otto, van~der
+  Velden, Neele et~al.}]{van2016mitochondrial}
+Van~den Bossche J, Baardman J, Otto NA, van~der Velden S, Neele AE, et~al.
+  (2016) Mitochondrial dysfunction prevents repolarization of inflammatory
+  macrophages.
+\newblock Cell reports 17: 684--696.
+\newblock \doi{10.1016/j.celrep.2016.09.008}.
+
+\bibitem[{Colegio et~al.(2014)Colegio, Chu, Szabo, Chu, Rhebergen
+  et~al.}]{colegio2014functional}
+Colegio OR, Chu NQ, Szabo AL, Chu T, Rhebergen AM, et~al. (2014) Functional
+  polarization of tumour-associated macrophages by tumour-derived lactic acid.
+\newblock Nature 513: 559--563.
+\newblock \doi{10.1038/nature13490}.
+
+\bibitem[{Di~Gioia et~al.(2020)Di~Gioia, Spreafico, Springstead, Mendelson,
+  Joehanes et~al.}]{Zanoni2020oxPAPC}
+Di~Gioia M, Spreafico R, Springstead JR, Mendelson MM, Joehanes R, et~al.
+  (2020) Endogenous oxidized phospholipids reprogram cellular metabolism and
+  boost hyperinflammation.
+\newblock Nature immunology 21: 42--53.
+\newblock \doi{10.1038/s41590-019-0539-2}.
+
+\bibitem[{Budnik et~al.(2018)Budnik, Levy, Harmange, and Slavov}]{scopems2018}
+Budnik B, Levy E, Harmange G, Slavov N (2018) {SCoPE-MS}: mass-spectrometry of
+  single mammalian cells quantifies proteome heterogeneity during cell
+  differentiation.
+\newblock Genome Biology 19: 161.
+\newblock \doi{10.1186/s13059-018-1547-5}.
+
+\bibitem[{Specht and Slavov(2018)}]{Specht_Perspective_2018}
+Specht H, Slavov N (2018) Transformative opportunities for single-cell
+  proteomics.
+\newblock Journal of Proteome Research 17: 2563 -- 2916.
+\newblock \doi{10.1021/acs.jproteome.8b00257}.
+
+\bibitem[{Slavov(2020{\natexlab{b}})}]{slavov2020Review}
+Slavov N (2020{\natexlab{b}}) Single-cell protein analysis by
+  mass-spectrometry.
+\newblock {Current Opinion in Chemical Biology} {(in press)}
+  \doi{10.1016/j.cbpa.2020.04.018}.
+
+\bibitem[{Slavov and Botstein(2013)}]{Slavov_aux}
+Slavov N, Botstein D (2013) {Decoupling Nutrient Signaling from Growth Rate
+  Causes Aerobic Glycolysis and Deregulation of Cell-Size and Gene Expression}.
+\newblock Molecular Biology of the Cell 24: 157 -- 168.
+\newblock \doi{10.1091/mbc.E12-09-0670}.
+
+\bibitem[{Slavov et~al.(2014)Slavov, Budnik, Schwab, Airoldi, and van
+  Oudenaarden}]{Slavov_exp}
+Slavov N, Budnik B, Schwab D, Airoldi E, van Oudenaarden A (2014) {Constant
+  Growth Rate Can Be Supported by Decreasing Energy Flux and Increasing Aerobic
+  Glycolysis}.
+\newblock Cell Reports 7: 705 -- 714.
+\newblock \doi{10.1016/j.celrep.2014.03.057}.
+
+\bibitem[{Klein et~al.(2015)Klein, Mazutis, Akartuna, Tallapragada, Veres
+  et~al.}]{klein2015droplet}
+Klein AM, Mazutis L, Akartuna I, Tallapragada N, Veres A, et~al. (2015) Droplet
+  barcoding for single-cell transcriptomics applied to embryonic stem cells.
+\newblock Cell 161: 1187--1201.
+
+\bibitem[{Macosko et~al.(2015)Macosko, Basu, Satija, Nemesh, Shekhar
+  et~al.}]{macosko2015highly}
+Macosko EZ, Basu A, Satija R, Nemesh J, Shekhar K, et~al. (2015) Highly
+  parallel genome-wide expression profiling of individual cells using nanoliter
+  droplets.
+\newblock Cell 161: 1202--1214.
+
+\bibitem[{Levy and Slavov(2018)}]{Levy_Review_2018}
+Levy E, Slavov N (2018) Single cell protein analysis for systems biology.
+\newblock Essays In Biochemistry 62.
+\newblock \doi{10.1042/EBC20180014}.
+
+\bibitem[{Peterson et~al.(2017)Peterson, Zhang, Kumar, Wong, Li
+  et~al.}]{REAP-seq}
+Peterson VM, Zhang KX, Kumar N, Wong J, Li L, et~al. (2017) Multiplexed
+  quantification of proteins and transcripts in single cells.
+\newblock Nature biotechnology 35: 936.
+
+\bibitem[{Specht et~al.(2018)Specht, Harmange, Perlman, Emmott, Niziolek
+  et~al.}]{Specht_mPOP_2018}
+Specht H, Harmange G, Perlman DH, Emmott E, Niziolek Z, et~al. (2018) Automated
+  sample preparation for high-throughput single-cell proteomics.
+\newblock bioRxiv \doi{10.1101/399774}.
+
+\bibitem[{Marx(2019)}]{nature_highlight}
+Marx V (2019) A dream of single-cell proteomics.
+\newblock Nature Methods 16: 809--812.
+\newblock \doi{10.1038/s41592-019-0540-6}.
+
+\bibitem[{Huffman et~al.(2019)Huffman, Chen, Specht, and Slavov}]{doMS2019}
+Huffman G, Chen AT, Specht H, Slavov N (2019) {DO-MS}: Data-driven optimization
+  of mass spectrometry methods.
+\newblock J of Proteome Res \doi{10.1021/acs.jproteome.9b00039}.
+
+\bibitem[{Chen et~al.(2019{\natexlab{b}})Chen, Franks, and
+  Slavov}]{dartID_PLoS}
+Chen A, Franks A, Slavov N (2019{\natexlab{b}}) {DART-ID} increases single-cell
+  proteome coverage.
+\newblock PLoS Comput Biol \doi{10.1371/journal.pcbi.1007082}.
+
+\bibitem[{Malioutov et~al.(2019)Malioutov, Chen, Airoldi, Jaffe, Budnik
+  et~al.}]{HIquant-MCP}
+Malioutov D, Chen T, Airoldi E, Jaffe J, Budnik B, et~al. (2019) Quantifying
+  homologous proteins and proteoforms.
+\newblock Molecular \& Cellular Proteomics 18: 162--168.
+\newblock \doi{10.1074/mcp.TIR118.000947}.
+
+\bibitem[{Slavov and Botstein(2011)}]{Slavov_eth_grr}
+Slavov N, Botstein D (2011) Coupling among growth rate response, metabolic
+  cycle, and cell division cycle in yeast.
+\newblock Molecular Biology of the Cell 22: 1997 -- 2009.
+\newblock \doi{10.1091/mbc.E11-02-0132}.
+
+\bibitem[{Slavov et~al.(2011)Slavov, Macinskas, Caudy, and
+  Botstein}]{Slavov_batch_ymc}
+Slavov N, Macinskas J, Caudy A, Botstein D (2011) Metabolic cycling without
+  cell division cycling in respiring yeast.
+\newblock Proceedings of the National Academy of Sciences 108: 19090 -- 19095.
+\newblock \doi{10.1073/pnas.1116998108}.
+
+\bibitem[{Slavov et~al.(2012)Slavov, Airoldi, van Oudenaarden, and
+  Botstein}]{Slavov_emc}
+Slavov N, Airoldi EM, van Oudenaarden A, Botstein D (2012) A conserved cell
+  growth cycle can account for the environmental stress responses of divergent
+  eukaryotes.
+\newblock Molecular Biology of the Cell 23: 1986 -- 1997.
+\newblock \doi{10.1091/mbc.E11-11-0961}.
+
+\bibitem[{Shalek et~al.(2013)Shalek, Satija, Adiconis, Gertner, Gaublomme
+  et~al.}]{shalek2013single}
+Shalek AK, Satija R, Adiconis X, Gertner RS, Gaublomme JT, et~al. (2013)
+  Single-cell transcriptomics reveals bimodality in expression and splicing in
+  immune cells.
+\newblock Nature 498: 236--240.
+\newblock \doi{10.1038/nature12172}.
+
+\bibitem[{Shalek et~al.(2014)Shalek, Satija, Shuga, Trombetta, Gennert
+  et~al.}]{shalek2014single}
+Shalek AK, Satija R, Shuga J, Trombetta JJ, Gennert D, et~al. (2014)
+  Single-cell {RNA-seq} reveals dynamic paracrine control of cellular
+  variation.
+\newblock Nature 510: 363--369.
+\newblock \doi{10.1038/nature13437}.
+
+\bibitem[{Chang et~al.(2013)Chang, Curtis, Maggi~Jr, Faubert, Villarino
+  et~al.}]{chang2013posttranscriptional}
+Chang CH, Curtis JD, Maggi~Jr LB, Faubert B, Villarino AV, et~al. (2013)
+  Posttranscriptional control of {T} cell effector function by aerobic
+  glycolysis.
+\newblock Cell 153: 1239--1251.
+\newblock \doi{10.1016/j.cell.2013.05.016}.
+
+\bibitem[{Emmott et~al.(2018)Emmott, Jovanovic, and
+  Slavov}]{Emmott_Slavov_Ribo_TIBS_2019}
+Emmott E, Jovanovic M, Slavov N (2018) Ribosome stoichiometry: from form to
+  function.
+\newblock Trends in biochemical sciences 44: 95--109.
+\newblock \doi{10.1016/j.tibs.2018.10.009}.
+
+\bibitem[{Picotti and Aebersold(2012)}]{picotti2012selected}
+Picotti P, Aebersold R (2012) Selected reaction monitoring--based proteomics:
+  workflows, potential, pitfalls and future directions.
+\newblock Nature methods 9: 555.
+\newblock \doi{10.1038/nmeth.2015}.
+
+\bibitem[{Erickson et~al.(2017)Erickson, Rose, Braun, Erickson, Knott
+  et~al.}]{erickson2017strategy}
+Erickson BK, Rose CM, Braun CR, Erickson AR, Knott J, et~al. (2017) A strategy
+  to combine sample multiplexing with targeted proteomics assays for
+  high-throughput protein signature characterization.
+\newblock Molecular cell 65: 361--370.
+\newblock \doi{10.1016/j.molcel.2016.12.005}.
+
+\bibitem[{Wichmann et~al.(2019)Wichmann, Meier, Winter, Brunner, Cox
+  et~al.}]{wichmann2019maxquant}
+Wichmann C, Meier F, Winter SV, Brunner AD, Cox J, et~al. (2019)
+  {MaxQuant.Live} enables global targeting of more than 25,000 peptides.
+\newblock Molecular \& Cellular Proteomics 18: 982--994.
+\newblock \doi{10.1074/mcp.TIR118.001131}.
+
+\end{thebibliography}
