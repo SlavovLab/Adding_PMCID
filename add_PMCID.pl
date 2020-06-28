@@ -29,7 +29,7 @@ while(<IN2>){
        print "$line PMCID: $PMCID\n";
        $line = "$line PMCID: $PMCID\n";
      }else{
-       $line = "$line No PMCID avilable\n"
+       $line = "$line No PMCID available\n"
     }
 
   }
